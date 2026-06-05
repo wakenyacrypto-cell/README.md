@@ -1,119 +1,175 @@
-<div align="center">
 
-# Hi there, I'm Richard Muhoro 👋
-
-**Accountant | Chrome Extension Developer | Open-Source Enthusiast**
-
-[![GitHub followers](https://img.shields.io/github/followers/rkmconsultance?style=social)](https://github.com/rkmconsultance)
-[![Profile Views](https://komarev.com/ghpvc/?username=rkmconsultance&color=blue)](https://github.com/rkmconsultance)
-
-</div>
 
 ---
 
-## 👀 I'm interested in
-- 🧮 **Accounting & Financial Automation** — Streamlining workflows for accountants and finance professionals
-- 🔧 **Chrome Extension Development** — Building browser-based tools for productivity and accounting
-- 💻 **Chromebook & Cloud Computing** — Exploring lightweight computing solutions and educational content
-- 🌐 **Local Server Projects** — Creating multi-port servers for sharing content (music, video, messages, documents, images)
-- 📊 **Excel Automation & Data Processing** — Building tools to simplify spreadsheet tasks
-- 🎓 **EdTech & Open-Source Learning** — Sharing knowledge about technology limitations and practical use cases
+```markdown
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Chrome%20Extension-Accounting%20Tools-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension Badge">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License Badge">
+  <img src="https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge" alt="Version Badge">
+</p>
 
-## 🌱 I'm currently learning
-- 🛠️ **Chrome Extension APIs** — Browser actions, content scripts, and manifest v3
-- 📜 **JavaScript & Modern Web Development** — ES6+, async programming, and DOM manipulation
-- 🐍 **Python for Automation** — Scripting for accounting workflows and local server development
-- 🗄️ **Multi-Port Server Architecture** — Building lightweight servers for file and media sharing
-- 📝 **Technical Writing** — Creating educational content about Chromebook use cases and limitations
+<h1 align="center">📊 Accounting Tools Chrome Extension</h1>
 
-## 💞️ I'm looking to collaborate on
-- 🧾 **Accounting Tools & Chrome Extensions** — Open-source projects that help accountants work smarter
-- 📂 **Local Content Sharing Platforms** — Multi-language server projects for document and media sharing
-- 📚 **Educational Content** — Tutorials and guides about Chromebook development and cloud tools
-- 🔄 **Excel & Data Automation** — Projects that bridge accounting and programming
-- 🌍 **Open-Source Financial Tools** — Community-driven solutions for small business accounting
+<p align="center">
+  <b>A powerful browser extension built for accountants, by an accountant.</b><br>
+  Streamline your workflow, automate calculations, and manage financial data directly in your browser.
+</p>
 
-## 📫 How to reach me
-- 📧 **Email:** [your-email@example.com] *(replace with your actual email)*
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile] *(replace with your LinkedIn URL)*
-- 🐦 **Twitter/X:** [@yourhandle] *(optional — replace or remove)*
-- 🌐 **Website/Blog:** [your-website.com] *(optional — replace or remove)*
-
-## 😄 Pronouns: he/him
-
-## ⚡ Fun fact
-> I once automated a 3-hour manual spreadsheet reconciliation into a 30-second script — and now I'm on a mission to build tools that save accountants hours every week! 🚀
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## ✨ Features
 
-### 🧮 Accounting Chrome Extension
-A browser-based toolkit for accountants to streamline common tasks directly in the browser.
-- **Status:** 🚧 In Development
-- **Tech:** JavaScript, Chrome Extension APIs, HTML/CSS
-- **Repo:** [rkmconsultance/accounting-extension](https://github.com/rkmconsultance) *(update link when ready)*
-
-### 🌐 Local Content Server
-A multi-port local server for sharing music, video, messages, documents, and images across devices.
-- **Status:** 🚧 In Development
-- **Tech:** Python, Node.js, Multi-language support
-- **Features:** Excel file samples, cross-platform compatibility
+| Feature | Description | Status |
+|---------|-------------|--------|
+| 🔢 **Quick Calculator** | Inline calculator for rapid computations | ✅ Active |
+| 📑 **Invoice Parser** | Extract data from invoices and receipts | ✅ Active |
+| 💱 **Currency Converter** | Real-time currency conversion with 160+ currencies | ✅ Active |
+| 📈 **Tax Calculator** | Automated tax computation engine | 🚧 In Progress |
+| 📤 **Export to Excel** | One-click export to `.xlsx` format | 🚧 In Progress |
+| 🔒 **Secure Mode** | Client-side encryption for sensitive data | 📋 Planned |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Installation
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### From Chrome Web Store
+> *Coming soon — pending review*
 
-### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkmconsultance&show_icons=true&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rkmconsultance)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkmconsultance&layout=compact)
-
-</div>
+### Manual Installation (Developer Mode)
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/[your-username]/[your-repo-name].git
+   ```
+2. Open Chrome and navigate to `chrome://extensions/`
+3. Enable **Developer mode** (toggle in top-right corner)
+4. Click **Load unpacked**
+5. Select the cloned project folder
+6. The extension icon will appear in your toolbar 🎉
 
 ---
 
-## 📚 Resources & Inspiration
+## 🛠️ Tech Stack
 
-> These are the tools and references I used to build this profile and my projects:
-
-| Resource | Link | Purpose |
-|----------|------|---------|
-| **GitHub Profile README Docs** | [docs.github.com](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme) | Official guide |
-| **GPRM Generator** | [gprm.itsvg.in](https://gprm.itsvg.in/) | README generator |
-| **GitHub ReadMe Stats** | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Dynamic stats cards |
-| **GitHub Streak Stats** | [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | Contribution streaks |
-| **Shields.io** | [shields.io](https://shields.io/) | Custom badges |
-| **Emoji Cheat Sheet** | [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) | GitHub emojis |
-| **Awesome Profile READMEs** | [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | Inspiration gallery |
-| **Capsule Render** | [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) | Animated headers |
-| **Typing SVG** | [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) | Animated text |
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Chrome%20API-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Chrome API">
+  <img src="https://img.shields.io/badge/Manifest%20V3-20232A?style=flat-square&logo=chrome&logoColor=61DAFB" alt="Manifest V3">
+</p>
 
 ---
 
-<div align="center">
+## 📸 Screenshots
 
-**Thanks for visiting my profile!** ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate.
+<p align="center">
+  <img src="docs/screenshots/dashboard.png" alt="Dashboard Preview" width="600">
+  <br>
+  <em>Main dashboard with quick-access accounting tools</em>
+</p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rkmconsultance.rkmconsultance)
+---
 
-</div>
+## 🧮 Usage Examples
+
+### Quick Calculator
+```javascript
+// Press Alt + A to open the calculator overlay
+// Or click the extension icon and select "Calculator"
+```
+
+### Invoice Parser
+1. Right-click on any invoice image or PDF
+2. Select **"Parse Invoice"** from the context menu
+3. Data is extracted and formatted automatically
+
+### Currency Conversion
+```javascript
+// Automatically converts prices on e-commerce pages
+// Supports: USD, EUR, GBP, KES, and 160+ others
+```
+
+---
+
+## 📁 Project Structure
+
+```
+accounting-tools-extension/
+├── 📂 assets/           # Icons, images, and static files
+├── 📂 src/
+│   ├── 📂 background/   # Service worker scripts
+│   ├── 📂 content/      # Content scripts for page injection
+│   ├── 📂 popup/        # Extension popup UI
+│   └── 📂 utils/        # Helper functions and utilities
+├── 📄 manifest.json     # Extension configuration (Manifest V3)
+├── 📄 popup.html        # Main popup interface
+├── 📄 popup.js          # Popup logic
+├── 📄 styles.css        # Global styles
+└── 📄 README.md         # This file
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Whether you're fixing a bug, adding a feature, or improving documentation:
+
+1. **Fork** the repository
+2. **Create** a feature branch: `git checkout -b feature/amazing-feature`
+3. **Commit** your changes: `git commit -m 'Add amazing feature'`
+4. **Push** to the branch: `git push origin feature/amazing-feature`
+5. **Open** a Pull Request
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👤 Author
+
+<p align="left">
+  <b>Richard Muhoro</b> — Accountant & Developer
+  <br>
+  <a href="https://github.com/[your-username]">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:[your-email@example.com]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Richard%20Muhoro-2026-blue?style=flat-square" alt="Made by Richard Muhoro">
+  <br>
+  <em>Built to make accounting work simpler, faster, and smarter.</em>
+</p>
+```
+
+---
+
+## How to Update Your GitHub Main Branch
+
+1. **Copy** the markdown above
+2. **Navigate** to your GitHub repository
+3. **Click** `README.md` → **Edit** (the pencil icon)
+4. **Paste** the content and replace placeholders like `[your-username]`, `[your-repo-name]`, and `[your-email@example.com]`
+5. **Commit** directly to the `main` branch with message: `docs: update README with graphical format`
+6. **Add screenshots** by uploading them to a `docs/screenshots/` folder in your repo
+
+
